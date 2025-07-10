@@ -265,6 +265,11 @@ h6 {
   color: var(--heading-color);
 }
 
+.header .tel a {
+ color: #000000;
+ text-decoration: none;
+}
+
 .header .cta-btn,
 .header .cta-btn:focus {
   color: var(--contrast-color);
@@ -1960,11 +1965,6 @@ section,
   font-size: 20px;
   margin-right: 8px;
   color: var(--accent-color);
-}
-
-.tel a {
- color: #000000;
- text-decoration: none;
 }
 
 /*--------------------------------------------------------------
